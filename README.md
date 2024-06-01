@@ -14,7 +14,7 @@ Music tracks are complex entities with numerous inherent features. Some of these
 
 The features in the music genre classification dataset are designed to be intuitive and accessible, allowing you to focus on the core concepts of PCA and machine learning without the need for specialized audio knowledge.
 
-### Project Requirements
+## Project Requirements
 
 You'll need Python 3 or a newer version and can choose any IDE (Jupyter Notebook, Spyder, PyCharm, Visual Studio, etc.). The file provided with the solution for this music genre classification project is a Jupyter Notebook.
 
@@ -27,10 +27,10 @@ You’ll also need to have the following Python libraries installed:
     scikit-learn
     seaborn
 
-### Project Files
+## Project Files
 
 The music data for the Music Genre Classification project can be found in the music_dataset_mod.csv file, and the data legend is provided in the Music Data Legend.xlsx. To get started, you can download the Music Genre Classification with PCA - Project.ipynb notebook, open it in Jupyter Notebook, and run the first cell to import the required libraries.
 
-### Results
+## Results
 
 This project demonstrated the use of PCA for dimensionality reduction and logistic regression for genre classification. By reducing the dataset to its principal components, we improved the efficiency of our classification model and gained insights into the underlying patterns of musical genres.
